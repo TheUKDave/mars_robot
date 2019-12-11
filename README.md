@@ -26,6 +26,8 @@ Run the script:
 python robot.py
 ```
 
+Run the tests:
+
 ```shell
 python -m unittest test.py
 ```
